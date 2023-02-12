@@ -14,7 +14,7 @@ setuptools.setup(
     long_description = long_description,
     long_description_content_type = 'text/x-rst',
     project_urls = {
-        'Source Code': 'https://github.com/Kodiologist/charlie_brown'},
+        'Source Code': 'https://github.com/Kodiologist/Charlie-Brown'},
     install_requires = [
         'hy >= 0.26.*',
         'hyrule >= 0.3.*',
